@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         geomatchexporter
 // @namespace    geomatchexporter
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  Geoguessr match exporter for analysis
 // @match        https://*.geoguessr.com/*
 // @grant        unsafeWindow
 // ==/UserScript==
