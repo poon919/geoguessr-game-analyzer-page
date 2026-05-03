@@ -3,6 +3,8 @@
 // @namespace    geomatchexporter
 // @version      1.0
 // @description  Geoguessr match exporter for analysis
+// @downloadURL  https://raw.githubusercontent.com/poon919/geoguessr-game-analyzer-page/master/geomatchexporter.user.js
+// @updateURL    https://raw.githubusercontent.com/poon919/geoguessr-game-analyzer-page/master/geomatchexporter.user.js
 // @match        https://*.geoguessr.com/*
 // @grant        unsafeWindow
 // ==/UserScript==
